@@ -1,0 +1,7 @@
+''' BrainStorm
+1: Snake game
+2: Tic Tac Toe
+3: Paint Mixer
+'''
+x = "Paint Mixer"
+print(x)
